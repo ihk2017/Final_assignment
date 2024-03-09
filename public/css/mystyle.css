@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&amp;display=swap');
+@import "sidebar.css";
+@import "progress.css";
+@import "dropdownmenu.css";
+
+.homebanner img{
+  height: 300px;
+  width: 100%;
+}
+.tp{
+  text-align: center;
+  font-style: italic; 
+}
+.myfooter{
+  height: 330px;
+  width: 100%;
+  background-color: blueviolet;
+}
+.footer-nav{
+  color: white;
+  letter-spacing: 5px;
+  text-align: center;
+}
+.sm img{
+  height: 30px;
+  width: 30px;
+}
+.pimg img{
+  height: 70px;
+  width: 70px;
+  text-align: center;
+}
